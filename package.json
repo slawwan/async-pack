@@ -1,0 +1,32 @@
+{
+  "name": "async-pack",
+  "version": "1.0.0",
+  "description": "async utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/slawwan/async-pack"
+  },
+  "keywords": [
+    "async",
+    "cancellation",
+    "cancellationtoken",
+    "cancellation-token",
+    "promise"
+  ],
+  "author": "Vyacheslav Ovchinnikov",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "24.0.15",
+    "eslint": "6.0.1",
+    "jest": "24.8.0",
+    "prettier": "1.18.2",
+    "ts-loader": "6.0.4",
+    "ts-jest": "24.0.2",
+    "typescript": "3.5.3",
+    "webpack": "4.35.3"
+  }
+}
